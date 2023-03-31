@@ -1,0 +1,821 @@
+DEBUG:root:Debug logging test ...
+DEBUG:root:Debug logging test ...
+INFO:root:Program sync as expected
+2023-03-28 13:34:26,891 Debug logging test ...
+2023-03-28 13:34:26,892 Program sync as expected
+2023-03-28 14:33:55,218 Debug logging test ...
+2023-03-28 14:33:55,218 Program sync as expected
+2023-03-28 14:33:55,218 This event was logged
+2023-03-28 14:58:18,664 Debug logging test ...
+2023-03-28 14:58:18,664 Program sync as expected
+2023-03-28 14:58:18,664 This event was logged
+2023-03-28 14:58:42,470 Debug logging test ...
+2023-03-28 14:58:42,470 Program sync as expected
+2023-03-28 14:58:42,470 This event was logged
+2023-03-28 17:46:04,677 Debug logging test ...
+2023-03-28 17:46:04,677 Program sync as expected
+2023-03-28 17:46:04,678 This event was logged
+2023-03-28 17:50:32,894 Debug logging test ...
+2023-03-28 17:50:32,895 Program sync as expected
+2023-03-28 17:50:32,895 This event was logged
+2023-03-28 17:50:42,899 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:50:42,901 dirsync finished in 0.00 seconds.
+2023-03-28 17:50:42,901 1 directories parsed, 0 files copied
+2023-03-28 17:50:42,901 
+2023-03-28 17:50:42,901 Debug logging test ...
+2023-03-28 17:50:42,901 Program sync as expected
+2023-03-28 17:50:42,901 This event was logged
+2023-03-28 17:51:12,348 Debug logging test ...
+2023-03-28 17:51:12,348 Program sync as expected
+2023-03-28 17:51:12,348 This event was logged
+2023-03-28 17:51:22,350 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:51:22,353 dirsync finished in 0.00 seconds.
+2023-03-28 17:51:22,354 1 directories parsed, 0 files copied
+2023-03-28 17:51:22,354 
+2023-03-28 17:51:22,354 Debug logging test ...
+2023-03-28 17:51:22,355 Program sync as expected
+2023-03-28 17:51:22,355 This event was logged
+2023-03-28 17:51:32,358 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:51:32,366 dirsync finished in 0.00 seconds.
+2023-03-28 17:51:32,366 1 directories parsed, 0 files copied
+2023-03-28 17:51:32,366 
+2023-03-28 17:51:32,367 Debug logging test ...
+2023-03-28 17:51:32,367 Program sync as expected
+2023-03-28 17:51:32,367 This event was logged
+2023-03-28 17:51:42,370 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:51:42,373 dirsync finished in 0.00 seconds.
+2023-03-28 17:51:42,374 1 directories parsed, 0 files copied
+2023-03-28 17:51:42,374 
+2023-03-28 17:51:42,374 Debug logging test ...
+2023-03-28 17:51:42,374 Program sync as expected
+2023-03-28 17:51:42,375 This event was logged
+2023-03-28 17:51:52,379 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:51:52,382 dirsync finished in 0.00 seconds.
+2023-03-28 17:51:52,382 1 directories parsed, 0 files copied
+2023-03-28 17:51:52,383 
+2023-03-28 17:51:52,383 Debug logging test ...
+2023-03-28 17:51:52,383 Program sync as expected
+2023-03-28 17:51:52,383 This event was logged
+2023-03-28 17:52:02,386 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:52:02,389 dirsync finished in 0.00 seconds.
+2023-03-28 17:52:02,390 1 directories parsed, 0 files copied
+2023-03-28 17:52:02,390 
+2023-03-28 17:52:02,390 Debug logging test ...
+2023-03-28 17:52:02,390 Program sync as expected
+2023-03-28 17:52:02,391 This event was logged
+2023-03-28 17:52:12,392 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:52:12,395 dirsync finished in 0.00 seconds.
+2023-03-28 17:52:12,395 1 directories parsed, 0 files copied
+2023-03-28 17:52:12,396 
+2023-03-28 17:52:12,396 Debug logging test ...
+2023-03-28 17:52:12,396 Program sync as expected
+2023-03-28 17:52:12,396 This event was logged
+2023-03-28 17:52:22,399 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:52:22,402 dirsync finished in 0.00 seconds.
+2023-03-28 17:52:22,402 1 directories parsed, 0 files copied
+2023-03-28 17:52:22,403 
+2023-03-28 17:52:22,403 Debug logging test ...
+2023-03-28 17:52:22,403 Program sync as expected
+2023-03-28 17:52:22,404 This event was logged
+2023-03-28 17:52:32,405 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:52:32,408 dirsync finished in 0.00 seconds.
+2023-03-28 17:52:32,409 1 directories parsed, 0 files copied
+2023-03-28 17:52:32,409 
+2023-03-28 17:52:32,409 Debug logging test ...
+2023-03-28 17:52:32,409 Program sync as expected
+2023-03-28 17:52:32,409 This event was logged
+2023-03-28 17:52:42,413 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:52:42,416 dirsync finished in 0.00 seconds.
+2023-03-28 17:52:42,416 1 directories parsed, 0 files copied
+2023-03-28 17:52:42,417 
+2023-03-28 17:52:42,417 Debug logging test ...
+2023-03-28 17:52:42,417 Program sync as expected
+2023-03-28 17:52:42,417 This event was logged
+2023-03-28 17:52:52,419 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:52:52,423 dirsync finished in 0.00 seconds.
+2023-03-28 17:52:52,423 1 directories parsed, 0 files copied
+2023-03-28 17:52:52,423 
+2023-03-28 17:52:52,423 Debug logging test ...
+2023-03-28 17:52:52,424 Program sync as expected
+2023-03-28 17:52:52,424 This event was logged
+2023-03-28 17:53:02,428 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:53:02,432 dirsync finished in 0.00 seconds.
+2023-03-28 17:53:02,432 1 directories parsed, 0 files copied
+2023-03-28 17:53:02,432 
+2023-03-28 17:53:02,433 Debug logging test ...
+2023-03-28 17:53:02,433 Program sync as expected
+2023-03-28 17:53:02,433 This event was logged
+2023-03-28 17:53:12,435 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:53:12,438 dirsync finished in 0.00 seconds.
+2023-03-28 17:53:12,438 1 directories parsed, 0 files copied
+2023-03-28 17:53:12,439 
+2023-03-28 17:53:12,439 Debug logging test ...
+2023-03-28 17:53:12,439 Program sync as expected
+2023-03-28 17:53:12,439 This event was logged
+2023-03-28 17:53:22,442 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:53:22,445 dirsync finished in 0.00 seconds.
+2023-03-28 17:53:22,446 1 directories parsed, 0 files copied
+2023-03-28 17:53:22,446 
+2023-03-28 17:53:22,446 Debug logging test ...
+2023-03-28 17:53:22,446 Program sync as expected
+2023-03-28 17:53:22,447 This event was logged
+2023-03-28 17:53:32,448 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:53:32,451 dirsync finished in 0.00 seconds.
+2023-03-28 17:53:32,451 1 directories parsed, 0 files copied
+2023-03-28 17:53:32,452 
+2023-03-28 17:53:32,452 Debug logging test ...
+2023-03-28 17:53:32,452 Program sync as expected
+2023-03-28 17:53:32,452 This event was logged
+2023-03-28 17:53:42,455 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:53:42,458 dirsync finished in 0.00 seconds.
+2023-03-28 17:53:42,459 1 directories parsed, 0 files copied
+2023-03-28 17:53:42,459 
+2023-03-28 17:53:42,459 Debug logging test ...
+2023-03-28 17:53:42,459 Program sync as expected
+2023-03-28 17:53:42,459 This event was logged
+2023-03-28 17:53:52,463 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:53:52,466 dirsync finished in 0.00 seconds.
+2023-03-28 17:53:52,466 1 directories parsed, 0 files copied
+2023-03-28 17:53:52,467 
+2023-03-28 17:53:52,467 Debug logging test ...
+2023-03-28 17:53:52,467 Program sync as expected
+2023-03-28 17:53:52,467 This event was logged
+2023-03-28 17:54:02,472 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:54:02,476 dirsync finished in 0.00 seconds.
+2023-03-28 17:54:02,476 1 directories parsed, 0 files copied
+2023-03-28 17:54:02,476 
+2023-03-28 17:54:02,476 Debug logging test ...
+2023-03-28 17:54:02,477 Program sync as expected
+2023-03-28 17:54:02,477 This event was logged
+2023-03-28 17:54:12,480 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:54:12,483 dirsync finished in 0.00 seconds.
+2023-03-28 17:54:12,484 1 directories parsed, 0 files copied
+2023-03-28 17:54:12,484 
+2023-03-28 17:54:12,484 Debug logging test ...
+2023-03-28 17:54:12,484 Program sync as expected
+2023-03-28 17:54:12,485 This event was logged
+2023-03-28 17:54:22,486 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:54:22,489 dirsync finished in 0.00 seconds.
+2023-03-28 17:54:22,489 1 directories parsed, 0 files copied
+2023-03-28 17:54:22,490 
+2023-03-28 17:54:22,490 Debug logging test ...
+2023-03-28 17:54:22,490 Program sync as expected
+2023-03-28 17:54:22,490 This event was logged
+2023-03-28 17:54:32,492 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:54:32,494 dirsync finished in 0.00 seconds.
+2023-03-28 17:54:32,494 1 directories parsed, 0 files copied
+2023-03-28 17:54:32,494 
+2023-03-28 17:54:32,494 Debug logging test ...
+2023-03-28 17:54:32,494 Program sync as expected
+2023-03-28 17:54:32,494 This event was logged
+2023-03-28 17:54:42,498 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:54:42,501 dirsync finished in 0.00 seconds.
+2023-03-28 17:54:42,501 1 directories parsed, 0 files copied
+2023-03-28 17:54:42,502 
+2023-03-28 17:54:42,502 Debug logging test ...
+2023-03-28 17:54:42,502 Program sync as expected
+2023-03-28 17:54:42,502 This event was logged
+2023-03-28 17:54:52,505 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:54:52,508 dirsync finished in 0.00 seconds.
+2023-03-28 17:54:52,509 1 directories parsed, 0 files copied
+2023-03-28 17:54:52,509 
+2023-03-28 17:54:52,509 Debug logging test ...
+2023-03-28 17:54:52,509 Program sync as expected
+2023-03-28 17:54:52,510 This event was logged
+2023-03-28 17:55:02,513 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:55:02,514 dirsync finished in 0.00 seconds.
+2023-03-28 17:55:02,515 1 directories parsed, 0 files copied
+2023-03-28 17:55:02,515 
+2023-03-28 17:55:02,515 Debug logging test ...
+2023-03-28 17:55:02,515 Program sync as expected
+2023-03-28 17:55:02,515 This event was logged
+2023-03-28 17:55:12,517 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:55:12,518 dirsync finished in 0.00 seconds.
+2023-03-28 17:55:12,519 1 directories parsed, 0 files copied
+2023-03-28 17:55:12,519 
+2023-03-28 17:55:12,519 Debug logging test ...
+2023-03-28 17:55:12,519 Program sync as expected
+2023-03-28 17:55:12,519 This event was logged
+2023-03-28 17:55:22,523 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:55:22,526 dirsync finished in 0.00 seconds.
+2023-03-28 17:55:22,527 1 directories parsed, 0 files copied
+2023-03-28 17:55:22,527 
+2023-03-28 17:55:22,527 Debug logging test ...
+2023-03-28 17:55:22,527 Program sync as expected
+2023-03-28 17:55:22,528 This event was logged
+2023-03-28 17:55:32,529 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:55:32,532 dirsync finished in 0.00 seconds.
+2023-03-28 17:55:32,533 1 directories parsed, 0 files copied
+2023-03-28 17:55:32,533 
+2023-03-28 17:55:32,533 Debug logging test ...
+2023-03-28 17:55:32,533 Program sync as expected
+2023-03-28 17:55:32,534 This event was logged
+2023-03-28 17:55:42,535 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:55:42,536 dirsync finished in 0.00 seconds.
+2023-03-28 17:55:42,537 1 directories parsed, 0 files copied
+2023-03-28 17:55:42,537 
+2023-03-28 17:55:42,537 Debug logging test ...
+2023-03-28 17:55:42,537 Program sync as expected
+2023-03-28 17:55:42,537 This event was logged
+2023-03-28 17:55:52,541 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:55:52,543 dirsync finished in 0.00 seconds.
+2023-03-28 17:55:52,543 1 directories parsed, 0 files copied
+2023-03-28 17:55:52,543 
+2023-03-28 17:55:52,543 Debug logging test ...
+2023-03-28 17:55:52,543 Program sync as expected
+2023-03-28 17:55:52,543 This event was logged
+2023-03-28 17:56:02,548 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:56:02,550 dirsync finished in 0.00 seconds.
+2023-03-28 17:56:02,550 1 directories parsed, 0 files copied
+2023-03-28 17:56:02,550 
+2023-03-28 17:56:02,550 Debug logging test ...
+2023-03-28 17:56:02,550 Program sync as expected
+2023-03-28 17:56:02,550 This event was logged
+2023-03-28 17:56:12,554 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:56:12,556 dirsync finished in 0.00 seconds.
+2023-03-28 17:56:12,556 1 directories parsed, 0 files copied
+2023-03-28 17:56:12,556 
+2023-03-28 17:56:12,556 Debug logging test ...
+2023-03-28 17:56:12,556 Program sync as expected
+2023-03-28 17:56:12,556 This event was logged
+2023-03-28 17:56:22,560 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:56:22,562 dirsync finished in 0.00 seconds.
+2023-03-28 17:56:22,562 1 directories parsed, 0 files copied
+2023-03-28 17:56:22,562 
+2023-03-28 17:56:22,562 Debug logging test ...
+2023-03-28 17:56:22,562 Program sync as expected
+2023-03-28 17:56:22,562 This event was logged
+2023-03-28 17:56:32,566 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:56:32,567 dirsync finished in 0.00 seconds.
+2023-03-28 17:56:32,568 1 directories parsed, 0 files copied
+2023-03-28 17:56:32,568 
+2023-03-28 17:56:32,568 Debug logging test ...
+2023-03-28 17:56:32,568 Program sync as expected
+2023-03-28 17:56:32,568 This event was logged
+2023-03-28 17:56:42,572 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:56:42,574 dirsync finished in 0.00 seconds.
+2023-03-28 17:56:42,574 1 directories parsed, 0 files copied
+2023-03-28 17:56:42,574 
+2023-03-28 17:56:42,574 Debug logging test ...
+2023-03-28 17:56:42,574 Program sync as expected
+2023-03-28 17:56:42,574 This event was logged
+2023-03-28 17:56:52,579 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:56:52,581 dirsync finished in 0.00 seconds.
+2023-03-28 17:56:52,581 1 directories parsed, 0 files copied
+2023-03-28 17:56:52,581 
+2023-03-28 17:56:52,581 Debug logging test ...
+2023-03-28 17:56:52,581 Program sync as expected
+2023-03-28 17:56:52,581 This event was logged
+2023-03-28 17:57:02,585 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:57:02,587 dirsync finished in 0.00 seconds.
+2023-03-28 17:57:02,587 1 directories parsed, 0 files copied
+2023-03-28 17:57:02,587 
+2023-03-28 17:57:02,587 Debug logging test ...
+2023-03-28 17:57:02,587 Program sync as expected
+2023-03-28 17:57:02,587 This event was logged
+2023-03-28 17:57:12,590 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:57:12,592 dirsync finished in 0.00 seconds.
+2023-03-28 17:57:12,592 1 directories parsed, 0 files copied
+2023-03-28 17:57:12,592 
+2023-03-28 17:57:12,592 Debug logging test ...
+2023-03-28 17:57:12,592 Program sync as expected
+2023-03-28 17:57:12,592 This event was logged
+2023-03-28 17:57:22,597 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:57:22,599 dirsync finished in 0.00 seconds.
+2023-03-28 17:57:22,599 1 directories parsed, 0 files copied
+2023-03-28 17:57:22,599 
+2023-03-28 17:57:22,599 Debug logging test ...
+2023-03-28 17:57:22,599 Program sync as expected
+2023-03-28 17:57:22,599 This event was logged
+2023-03-28 17:57:32,603 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:57:32,605 dirsync finished in 0.00 seconds.
+2023-03-28 17:57:32,605 1 directories parsed, 0 files copied
+2023-03-28 17:57:32,605 
+2023-03-28 17:57:32,605 Debug logging test ...
+2023-03-28 17:57:32,605 Program sync as expected
+2023-03-28 17:57:32,605 This event was logged
+2023-03-28 17:57:42,610 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:57:42,611 dirsync finished in 0.00 seconds.
+2023-03-28 17:57:42,612 1 directories parsed, 0 files copied
+2023-03-28 17:57:42,612 
+2023-03-28 17:57:42,612 Debug logging test ...
+2023-03-28 17:57:42,612 Program sync as expected
+2023-03-28 17:57:42,612 This event was logged
+2023-03-28 17:57:52,616 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:57:52,618 dirsync finished in 0.00 seconds.
+2023-03-28 17:57:52,618 1 directories parsed, 0 files copied
+2023-03-28 17:57:52,618 
+2023-03-28 17:57:52,618 Debug logging test ...
+2023-03-28 17:57:52,618 Program sync as expected
+2023-03-28 17:57:52,618 This event was logged
+2023-03-28 17:58:02,622 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:58:02,624 dirsync finished in 0.00 seconds.
+2023-03-28 17:58:02,624 1 directories parsed, 0 files copied
+2023-03-28 17:58:02,624 
+2023-03-28 17:58:02,624 Debug logging test ...
+2023-03-28 17:58:02,624 Program sync as expected
+2023-03-28 17:58:02,624 This event was logged
+2023-03-28 17:58:12,628 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:58:12,630 dirsync finished in 0.00 seconds.
+2023-03-28 17:58:12,630 1 directories parsed, 0 files copied
+2023-03-28 17:58:12,630 
+2023-03-28 17:58:12,630 Debug logging test ...
+2023-03-28 17:58:12,630 Program sync as expected
+2023-03-28 17:58:12,630 This event was logged
+2023-03-28 17:58:22,634 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:58:22,636 dirsync finished in 0.00 seconds.
+2023-03-28 17:58:22,636 1 directories parsed, 0 files copied
+2023-03-28 17:58:22,636 
+2023-03-28 17:58:22,636 Debug logging test ...
+2023-03-28 17:58:22,636 Program sync as expected
+2023-03-28 17:58:22,636 This event was logged
+2023-03-28 17:58:32,641 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:58:32,643 dirsync finished in 0.00 seconds.
+2023-03-28 17:58:32,643 1 directories parsed, 0 files copied
+2023-03-28 17:58:32,643 
+2023-03-28 17:58:32,643 Debug logging test ...
+2023-03-28 17:58:32,643 Program sync as expected
+2023-03-28 17:58:32,643 This event was logged
+2023-03-28 17:58:42,648 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:58:42,650 dirsync finished in 0.00 seconds.
+2023-03-28 17:58:42,650 1 directories parsed, 0 files copied
+2023-03-28 17:58:42,650 
+2023-03-28 17:58:42,650 Debug logging test ...
+2023-03-28 17:58:42,650 Program sync as expected
+2023-03-28 17:58:42,650 This event was logged
+2023-03-28 17:58:52,655 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:58:52,657 dirsync finished in 0.00 seconds.
+2023-03-28 17:58:52,657 1 directories parsed, 0 files copied
+2023-03-28 17:58:52,657 
+2023-03-28 17:58:52,657 Debug logging test ...
+2023-03-28 17:58:52,657 Program sync as expected
+2023-03-28 17:58:52,657 This event was logged
+2023-03-28 17:59:02,661 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:59:02,663 dirsync finished in 0.00 seconds.
+2023-03-28 17:59:02,663 1 directories parsed, 0 files copied
+2023-03-28 17:59:02,663 
+2023-03-28 17:59:02,663 Debug logging test ...
+2023-03-28 17:59:02,663 Program sync as expected
+2023-03-28 17:59:02,663 This event was logged
+2023-03-28 17:59:12,668 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:59:12,670 dirsync finished in 0.00 seconds.
+2023-03-28 17:59:12,670 1 directories parsed, 0 files copied
+2023-03-28 17:59:12,670 
+2023-03-28 17:59:12,670 Debug logging test ...
+2023-03-28 17:59:12,670 Program sync as expected
+2023-03-28 17:59:12,670 This event was logged
+2023-03-28 17:59:22,674 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:59:22,676 dirsync finished in 0.00 seconds.
+2023-03-28 17:59:22,676 1 directories parsed, 0 files copied
+2023-03-28 17:59:22,676 
+2023-03-28 17:59:22,676 Debug logging test ...
+2023-03-28 17:59:22,676 Program sync as expected
+2023-03-28 17:59:22,676 This event was logged
+2023-03-28 17:59:32,679 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:59:32,682 dirsync finished in 0.00 seconds.
+2023-03-28 17:59:32,682 1 directories parsed, 0 files copied
+2023-03-28 17:59:32,683 
+2023-03-28 17:59:32,683 Debug logging test ...
+2023-03-28 17:59:32,683 Program sync as expected
+2023-03-28 17:59:32,683 This event was logged
+2023-03-28 17:59:42,686 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:59:42,689 dirsync finished in 0.00 seconds.
+2023-03-28 17:59:42,690 1 directories parsed, 0 files copied
+2023-03-28 17:59:42,690 
+2023-03-28 17:59:42,690 Debug logging test ...
+2023-03-28 17:59:42,690 Program sync as expected
+2023-03-28 17:59:42,691 This event was logged
+2023-03-28 17:59:52,694 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 17:59:52,697 dirsync finished in 0.00 seconds.
+2023-03-28 17:59:52,697 1 directories parsed, 0 files copied
+2023-03-28 17:59:52,698 
+2023-03-28 17:59:52,698 Debug logging test ...
+2023-03-28 17:59:52,698 Program sync as expected
+2023-03-28 17:59:52,698 This event was logged
+2023-03-28 18:00:02,701 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:00:02,702 dirsync finished in 0.00 seconds.
+2023-03-28 18:00:02,702 1 directories parsed, 0 files copied
+2023-03-28 18:00:02,702 
+2023-03-28 18:00:02,703 Debug logging test ...
+2023-03-28 18:00:02,703 Program sync as expected
+2023-03-28 18:00:02,703 This event was logged
+2023-03-28 18:00:12,705 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:00:12,708 dirsync finished in 0.00 seconds.
+2023-03-28 18:00:12,709 1 directories parsed, 0 files copied
+2023-03-28 18:00:12,709 
+2023-03-28 18:00:12,709 Debug logging test ...
+2023-03-28 18:00:12,709 Program sync as expected
+2023-03-28 18:00:12,710 This event was logged
+2023-03-28 18:00:22,713 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:00:22,716 dirsync finished in 0.00 seconds.
+2023-03-28 18:00:22,716 1 directories parsed, 0 files copied
+2023-03-28 18:00:22,717 
+2023-03-28 18:00:22,717 Debug logging test ...
+2023-03-28 18:00:22,717 Program sync as expected
+2023-03-28 18:00:22,717 This event was logged
+2023-03-28 18:00:32,720 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:00:32,723 dirsync finished in 0.00 seconds.
+2023-03-28 18:00:32,724 1 directories parsed, 0 files copied
+2023-03-28 18:00:32,724 
+2023-03-28 18:00:32,724 Debug logging test ...
+2023-03-28 18:00:32,724 Program sync as expected
+2023-03-28 18:00:32,725 This event was logged
+2023-03-28 18:00:42,729 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:00:42,733 dirsync finished in 0.00 seconds.
+2023-03-28 18:00:42,733 1 directories parsed, 0 files copied
+2023-03-28 18:00:42,733 
+2023-03-28 18:00:42,733 Debug logging test ...
+2023-03-28 18:00:42,734 Program sync as expected
+2023-03-28 18:00:42,734 This event was logged
+2023-03-28 18:00:52,736 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:00:52,738 dirsync finished in 0.00 seconds.
+2023-03-28 18:00:52,738 1 directories parsed, 0 files copied
+2023-03-28 18:00:52,738 
+2023-03-28 18:00:52,739 Debug logging test ...
+2023-03-28 18:00:52,739 Program sync as expected
+2023-03-28 18:00:52,739 This event was logged
+2023-03-28 18:01:02,743 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:01:02,746 dirsync finished in 0.00 seconds.
+2023-03-28 18:01:02,747 1 directories parsed, 0 files copied
+2023-03-28 18:01:02,747 
+2023-03-28 18:01:02,747 Debug logging test ...
+2023-03-28 18:01:02,748 Program sync as expected
+2023-03-28 18:01:02,748 This event was logged
+2023-03-28 18:01:12,751 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:01:12,753 dirsync finished in 0.00 seconds.
+2023-03-28 18:01:12,753 1 directories parsed, 0 files copied
+2023-03-28 18:01:12,753 
+2023-03-28 18:01:12,753 Debug logging test ...
+2023-03-28 18:01:12,753 Program sync as expected
+2023-03-28 18:01:12,753 This event was logged
+2023-03-28 18:01:22,755 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:01:22,758 dirsync finished in 0.00 seconds.
+2023-03-28 18:01:22,759 1 directories parsed, 0 files copied
+2023-03-28 18:01:22,759 
+2023-03-28 18:01:22,759 Debug logging test ...
+2023-03-28 18:01:22,759 Program sync as expected
+2023-03-28 18:01:22,759 This event was logged
+2023-03-28 18:01:32,764 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:01:32,797 dirsync finished in 0.03 seconds.
+2023-03-28 18:01:32,797 1 directories parsed, 4 files copied
+2023-03-28 18:01:32,797 
+2023-03-28 18:01:32,797 Debug logging test ...
+2023-03-28 18:01:32,797 Program sync as expected
+2023-03-28 18:01:32,797 This event was logged
+2023-03-28 18:01:42,801 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:01:42,808 dirsync finished in 0.00 seconds.
+2023-03-28 18:01:42,808 1 directories parsed, 0 files copied
+2023-03-28 18:01:42,808 
+2023-03-28 18:01:42,809 Debug logging test ...
+2023-03-28 18:01:42,809 Program sync as expected
+2023-03-28 18:01:42,809 This event was logged
+2023-03-28 18:01:52,813 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:01:52,816 dirsync finished in 0.00 seconds.
+2023-03-28 18:01:52,816 1 directories parsed, 0 files copied
+2023-03-28 18:01:52,816 
+2023-03-28 18:01:52,816 Debug logging test ...
+2023-03-28 18:01:52,816 Program sync as expected
+2023-03-28 18:01:52,816 This event was logged
+2023-03-28 18:02:02,818 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:02:02,822 dirsync finished in 0.00 seconds.
+2023-03-28 18:02:02,822 1 directories parsed, 0 files copied
+2023-03-28 18:02:02,822 
+2023-03-28 18:02:02,822 Debug logging test ...
+2023-03-28 18:02:02,822 Program sync as expected
+2023-03-28 18:02:02,823 This event was logged
+2023-03-28 18:02:12,826 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:02:12,924 dirsync finished in 0.09 seconds.
+2023-03-28 18:02:12,924 1 directories parsed, 7 files copied
+2023-03-28 18:02:12,924 
+2023-03-28 18:02:12,925 Debug logging test ...
+2023-03-28 18:02:12,925 Program sync as expected
+2023-03-28 18:02:12,925 This event was logged
+2023-03-28 18:02:22,930 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:02:22,933 dirsync finished in 0.00 seconds.
+2023-03-28 18:02:22,933 1 directories parsed, 0 files copied
+2023-03-28 18:02:22,933 
+2023-03-28 18:02:22,933 Debug logging test ...
+2023-03-28 18:02:22,933 Program sync as expected
+2023-03-28 18:02:22,933 This event was logged
+2023-03-28 18:02:32,937 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:02:33,058 dirsync finished in 0.12 seconds.
+2023-03-28 18:02:33,058 1 directories parsed, 7 files copied
+2023-03-28 18:02:33,058 
+2023-03-28 18:02:33,059 Debug logging test ...
+2023-03-28 18:02:33,059 Program sync as expected
+2023-03-28 18:02:33,059 This event was logged
+2023-03-28 18:02:43,062 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:02:43,070 dirsync finished in 0.00 seconds.
+2023-03-28 18:02:43,070 1 directories parsed, 0 files copied
+2023-03-28 18:02:43,070 
+2023-03-28 18:02:43,070 Debug logging test ...
+2023-03-28 18:02:43,071 Program sync as expected
+2023-03-28 18:02:43,071 This event was logged
+2023-03-28 18:02:53,074 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:02:53,077 dirsync finished in 0.00 seconds.
+2023-03-28 18:02:53,077 1 directories parsed, 0 files copied
+2023-03-28 18:02:53,077 
+2023-03-28 18:02:53,077 Debug logging test ...
+2023-03-28 18:02:53,077 Program sync as expected
+2023-03-28 18:02:53,078 This event was logged
+2023-03-28 18:03:03,082 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:03:03,085 dirsync finished in 0.00 seconds.
+2023-03-28 18:03:03,085 1 directories parsed, 0 files copied
+2023-03-28 18:03:03,085 
+2023-03-28 18:03:03,085 Debug logging test ...
+2023-03-28 18:03:03,085 Program sync as expected
+2023-03-28 18:03:03,085 This event was logged
+2023-03-28 18:03:13,088 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:03:13,094 dirsync finished in 0.00 seconds.
+2023-03-28 18:03:13,094 1 directories parsed, 0 files copied
+2023-03-28 18:03:13,094 
+2023-03-28 18:03:13,095 Debug logging test ...
+2023-03-28 18:03:13,095 Program sync as expected
+2023-03-28 18:03:13,095 This event was logged
+2023-03-28 18:03:23,098 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:03:23,104 dirsync finished in 0.00 seconds.
+2023-03-28 18:03:23,104 1 directories parsed, 0 files copied
+2023-03-28 18:03:23,105 
+2023-03-28 18:03:23,105 Debug logging test ...
+2023-03-28 18:03:23,105 Program sync as expected
+2023-03-28 18:03:23,105 This event was logged
+2023-03-28 18:03:33,108 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:03:33,114 dirsync finished in 0.00 seconds.
+2023-03-28 18:03:33,114 1 directories parsed, 0 files copied
+2023-03-28 18:03:33,114 
+2023-03-28 18:03:33,114 Debug logging test ...
+2023-03-28 18:03:33,115 Program sync as expected
+2023-03-28 18:03:33,115 This event was logged
+2023-03-28 18:03:43,119 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:03:43,122 dirsync finished in 0.00 seconds.
+2023-03-28 18:03:43,122 1 directories parsed, 0 files copied
+2023-03-28 18:03:43,122 
+2023-03-28 18:03:43,122 Debug logging test ...
+2023-03-28 18:03:43,122 Program sync as expected
+2023-03-28 18:03:43,123 This event was logged
+2023-03-28 18:03:53,125 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:03:53,328 dirsync finished in 0.20 seconds.
+2023-03-28 18:03:53,328 1 directories parsed, 5 files copied
+2023-03-28 18:03:53,328 
+2023-03-28 18:03:53,328 Debug logging test ...
+2023-03-28 18:03:53,328 Program sync as expected
+2023-03-28 18:03:53,328 This event was logged
+2023-03-28 18:04:03,331 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:04:03,508 dirsync finished in 0.17 seconds.
+2023-03-28 18:04:03,508 1 directories parsed, 12 files copied
+2023-03-28 18:04:03,508 
+2023-03-28 18:04:03,508 Debug logging test ...
+2023-03-28 18:04:03,508 Program sync as expected
+2023-03-28 18:04:03,508 This event was logged
+2023-03-28 18:04:13,511 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:04:13,672 dirsync finished in 0.16 seconds.
+2023-03-28 18:04:13,672 1 directories parsed, 12 files copied
+2023-03-28 18:04:13,672 
+2023-03-28 18:04:13,672 Debug logging test ...
+2023-03-28 18:04:13,672 Program sync as expected
+2023-03-28 18:04:13,673 This event was logged
+2023-03-28 18:04:23,674 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:04:23,684 dirsync finished in 0.00 seconds.
+2023-03-28 18:04:23,684 1 directories parsed, 0 files copied
+2023-03-28 18:04:23,684 1 files were purged.
+2023-03-28 18:04:23,684 
+2023-03-28 18:04:23,685 Debug logging test ...
+2023-03-28 18:04:23,685 Program sync as expected
+2023-03-28 18:04:23,685 This event was logged
+2023-03-28 18:04:33,688 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:04:33,696 dirsync finished in 0.00 seconds.
+2023-03-28 18:04:33,697 1 directories parsed, 0 files copied
+2023-03-28 18:04:33,697 1 files were purged.
+2023-03-28 18:04:33,697 
+2023-03-28 18:04:33,697 Debug logging test ...
+2023-03-28 18:04:33,698 Program sync as expected
+2023-03-28 18:04:33,698 This event was logged
+2023-03-28 18:04:43,700 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:04:43,725 dirsync finished in 0.02 seconds.
+2023-03-28 18:04:43,725 1 directories parsed, 0 files copied
+2023-03-28 18:04:43,725 1 files were purged.
+2023-03-28 18:04:43,725 
+2023-03-28 18:04:43,725 Debug logging test ...
+2023-03-28 18:04:43,726 Program sync as expected
+2023-03-28 18:04:43,726 This event was logged
+2023-03-28 18:04:53,730 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:04:53,734 dirsync finished in 0.00 seconds.
+2023-03-28 18:04:53,734 1 directories parsed, 0 files copied
+2023-03-28 18:04:53,734 
+2023-03-28 18:04:53,734 Debug logging test ...
+2023-03-28 18:04:53,735 Program sync as expected
+2023-03-28 18:04:53,735 This event was logged
+2023-03-28 18:05:47,924 Debug logging test ...
+2023-03-28 18:05:47,924 Program sync as expected
+2023-03-28 18:05:47,924 This event was logged
+2023-03-28 18:06:07,929 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:06:07,932 dirsync finished in 0.00 seconds.
+2023-03-28 18:06:07,933 1 directories parsed, 0 files copied
+2023-03-28 18:06:07,933 
+2023-03-28 18:06:07,933 Debug logging test ...
+2023-03-28 18:06:07,933 Program sync as expected
+2023-03-28 18:06:07,933 This event was logged
+2023-03-28 18:06:27,938 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:06:28,031 dirsync finished in 0.09 seconds.
+2023-03-28 18:06:28,032 1 directories parsed, 9 files copied
+2023-03-28 18:06:28,032 
+2023-03-28 18:06:28,032 Debug logging test ...
+2023-03-28 18:06:28,032 Program sync as expected
+2023-03-28 18:06:28,032 This event was logged
+2023-03-28 18:06:48,037 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:06:48,045 dirsync finished in 0.00 seconds.
+2023-03-28 18:06:48,045 1 directories parsed, 0 files copied
+2023-03-28 18:06:48,045 1 files were purged.
+2023-03-28 18:06:48,045 
+2023-03-28 18:06:48,046 Debug logging test ...
+2023-03-28 18:06:48,046 Program sync as expected
+2023-03-28 18:06:48,046 This event was logged
+2023-03-28 18:07:08,054 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:07:08,061 dirsync finished in 0.00 seconds.
+2023-03-28 18:07:08,061 1 directories parsed, 0 files copied
+2023-03-28 18:07:08,062 1 files were purged.
+2023-03-28 18:07:08,062 
+2023-03-28 18:07:08,062 Debug logging test ...
+2023-03-28 18:07:08,062 Program sync as expected
+2023-03-28 18:07:08,062 This event was logged
+2023-03-28 18:07:28,068 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:07:28,074 dirsync finished in 0.00 seconds.
+2023-03-28 18:07:28,074 1 directories parsed, 0 files copied
+2023-03-28 18:07:28,075 
+2023-03-28 18:07:28,075 Debug logging test ...
+2023-03-28 18:07:28,075 Program sync as expected
+2023-03-28 18:07:28,075 This event was logged
+2023-03-28 18:28:55,765 Debug logging test ...
+2023-03-28 18:28:55,765 Program sync as expected
+2023-03-28 18:28:55,765 This event was logged
+2023-03-28 18:29:15,774 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:29:15,784 dirsync finished in 0.00 seconds.
+2023-03-28 18:29:15,785 1 directories parsed, 0 files copied
+2023-03-28 18:29:15,785 1 files were purged.
+2023-03-28 18:29:15,785 
+2023-03-28 18:29:15,786 Debug logging test ...
+2023-03-28 18:29:15,786 Program sync as expected
+2023-03-28 18:29:15,786 This event was logged
+2023-03-28 18:29:35,792 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:29:35,798 dirsync finished in 0.00 seconds.
+2023-03-28 18:29:35,799 1 directories parsed, 0 files copied
+2023-03-28 18:29:35,799 2 files were purged.
+2023-03-28 18:29:35,799 
+2023-03-28 18:29:35,799 Debug logging test ...
+2023-03-28 18:29:35,799 Program sync as expected
+2023-03-28 18:29:35,800 This event was logged
+2023-03-28 18:29:55,809 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:29:56,094 dirsync finished in 0.28 seconds.
+2023-03-28 18:29:56,094 2 directories parsed, 14 files copied
+2023-03-28 18:29:56,094 1 directories were created.
+2023-03-28 18:29:56,094 
+2023-03-28 18:29:56,094 Debug logging test ...
+2023-03-28 18:29:56,094 Program sync as expected
+2023-03-28 18:29:56,094 This event was logged
+2023-03-28 18:35:26,550 Debug logging test ...
+2023-03-28 18:35:26,551 Program sync as expected
+2023-03-28 18:35:26,551 This event was logged
+2023-03-28 18:35:46,556 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:35:46,569 dirsync finished in 0.01 seconds.
+2023-03-28 18:35:46,569 2 directories parsed, 0 files copied
+2023-03-28 18:35:46,569 1 files were purged.
+2023-03-28 18:35:46,569 
+2023-03-28 18:35:46,569 Debug logging test ...
+2023-03-28 18:35:46,569 Program sync as expected
+2023-03-28 18:35:46,569 This event was logged
+2023-03-28 18:36:06,577 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:36:06,597 dirsync finished in 0.01 seconds.
+2023-03-28 18:36:06,597 2 directories parsed, 0 files copied
+2023-03-28 18:36:06,597 1 files were purged.
+2023-03-28 18:36:06,598 
+2023-03-28 18:36:06,598 Debug logging test ...
+2023-03-28 18:36:06,598 Program sync as expected
+2023-03-28 18:36:06,598 This event was logged
+2023-03-28 18:36:26,603 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:36:26,624 dirsync finished in 0.01 seconds.
+2023-03-28 18:36:26,624 2 directories parsed, 0 files copied
+2023-03-28 18:36:26,624 1 files were purged.
+2023-03-28 18:36:26,624 
+2023-03-28 18:36:26,625 Debug logging test ...
+2023-03-28 18:36:26,625 Program sync as expected
+2023-03-28 18:36:26,625 This event was logged
+2023-03-28 18:36:46,630 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:36:46,638 dirsync finished in 0.00 seconds.
+2023-03-28 18:36:46,638 2 directories parsed, 0 files copied
+2023-03-28 18:36:46,638 
+2023-03-28 18:36:46,638 Debug logging test ...
+2023-03-28 18:36:46,638 Program sync as expected
+2023-03-28 18:36:46,638 This event was logged
+2023-03-28 18:37:06,647 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:37:06,661 dirsync finished in 0.01 seconds.
+2023-03-28 18:37:06,661 2 directories parsed, 1 files copied
+2023-03-28 18:37:06,661 
+2023-03-28 18:37:06,661 Debug logging test ...
+2023-03-28 18:37:06,661 Program sync as expected
+2023-03-28 18:37:06,662 This event was logged
+2023-03-28 18:37:26,668 Running job Job(interval=20, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:37:26,700 dirsync finished in 0.03 seconds.
+2023-03-28 18:37:26,700 2 directories parsed, 1 files copied
+2023-03-28 18:37:26,700 
+2023-03-28 18:37:26,701 Debug logging test ...
+2023-03-28 18:37:26,701 Program sync as expected
+2023-03-28 18:37:26,701 This event was logged
+2023-03-28 18:51:25,076 Debug logging test ...
+2023-03-28 18:51:25,076 Program sync as expected
+2023-03-28 18:51:25,076 This event was logged
+2023-03-28 18:52:25,216 Debug logging test ...
+2023-03-28 18:52:25,217 Program sync as expected
+2023-03-28 18:52:25,218 This event was logged
+2023-03-28 18:53:00,375 Debug logging test ...
+2023-03-28 18:53:00,376 Program sync as expected
+2023-03-28 18:53:00,376 This event was logged
+2023-03-28 18:53:10,380 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:53:10,405 dirsync finished in 0.02 seconds.
+2023-03-28 18:53:10,406 2 directories parsed, 0 files copied
+2023-03-28 18:53:10,406 3 files were purged.
+2023-03-28 18:53:10,406 1 directories were purged.
+2023-03-28 18:53:10,407 
+2023-03-28 18:53:10,407 Debug logging test ...
+2023-03-28 18:53:10,407 Program sync as expected
+2023-03-28 18:53:10,407 This event was logged
+2023-03-28 18:53:20,411 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:53:20,440 dirsync finished in 0.02 seconds.
+2023-03-28 18:53:20,441 1 directories parsed, 2 files copied
+2023-03-28 18:53:20,441 
+2023-03-28 18:53:20,441 Debug logging test ...
+2023-03-28 18:53:20,441 Program sync as expected
+2023-03-28 18:53:20,441 This event was logged
+2023-03-28 18:53:30,445 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:53:30,460 dirsync finished in 0.01 seconds.
+2023-03-28 18:53:30,460 1 directories parsed, 0 files copied
+2023-03-28 18:53:30,460 4 files were purged.
+2023-03-28 18:53:30,460 
+2023-03-28 18:53:30,460 Debug logging test ...
+2023-03-28 18:53:30,460 Program sync as expected
+2023-03-28 18:53:30,460 This event was logged
+2023-03-28 18:53:40,464 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:53:40,493 dirsync finished in 0.02 seconds.
+2023-03-28 18:53:40,493 1 directories parsed, 2 files copied
+2023-03-28 18:53:40,494 
+2023-03-28 18:53:40,494 Debug logging test ...
+2023-03-28 18:53:40,494 Program sync as expected
+2023-03-28 18:53:40,494 This event was logged
+2023-03-28 18:59:31,694 Debug logging test ...
+2023-03-28 18:59:31,694 Program sync as expected
+2023-03-28 18:59:31,694 This event was logged
+2023-03-28 18:59:41,698 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:59:41,702 dirsync finished in 0.00 seconds.
+2023-03-28 18:59:41,702 1 directories parsed, 0 files copied
+2023-03-28 18:59:41,703 2 files were purged.
+2023-03-28 18:59:41,703 
+2023-03-28 18:59:41,703 Debug logging test ...
+2023-03-28 18:59:41,703 Program sync as expected
+2023-03-28 18:59:41,703 This event was logged
+2023-03-28 18:59:51,707 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 18:59:51,727 dirsync finished in 0.01 seconds.
+2023-03-28 18:59:51,727 1 directories parsed, 2 files copied
+2023-03-28 18:59:51,727 
+2023-03-28 18:59:51,727 Debug logging test ...
+2023-03-28 18:59:51,727 Program sync as expected
+2023-03-28 18:59:51,727 This event was logged
+2023-03-28 19:00:01,736 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 19:00:01,747 dirsync finished in 0.00 seconds.
+2023-03-28 19:00:01,747 1 directories parsed, 0 files copied
+2023-03-28 19:00:01,748 7 files were purged.
+2023-03-28 19:00:01,748 
+2023-03-28 19:00:01,749 Debug logging test ...
+2023-03-28 19:00:01,749 Program sync as expected
+2023-03-28 19:00:01,749 This event was logged
+2023-03-28 19:10:07,158 Debug logging test ...
+2023-03-28 19:10:07,158 Program sync as expected
+2023-03-28 19:10:07,158 This event was logged
+2023-03-28 19:10:17,162 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 19:10:17,181 dirsync finished in 0.01 seconds.
+2023-03-28 19:10:17,182 1 directories parsed, 2 files copied
+2023-03-28 19:10:17,182 
+2023-03-28 19:10:17,182 Debug logging test ...
+2023-03-28 19:10:17,182 Program sync as expected
+2023-03-28 19:10:17,183 This event was logged
+2023-03-28 19:10:27,187 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 19:10:27,196 dirsync finished in 0.00 seconds.
+2023-03-28 19:10:27,196 1 directories parsed, 0 files copied
+2023-03-28 19:10:27,196 3 files were purged.
+2023-03-28 19:10:27,196 
+2023-03-28 19:10:27,197 Debug logging test ...
+2023-03-28 19:10:27,197 Program sync as expected
+2023-03-28 19:10:27,197 This event was logged
+2023-03-28 19:10:37,206 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 19:10:37,213 dirsync finished in 0.00 seconds.
+2023-03-28 19:10:37,213 1 directories parsed, 0 files copied
+2023-03-28 19:10:37,214 3 files were purged.
+2023-03-28 19:10:37,214 
+2023-03-28 19:10:37,214 Debug logging test ...
+2023-03-28 19:10:37,214 Program sync as expected
+2023-03-28 19:10:37,215 This event was logged
+2023-03-28 19:10:47,219 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-28 19:10:47,238 dirsync finished in 0.01 seconds.
+2023-03-28 19:10:47,239 1 directories parsed, 3 files copied
+2023-03-28 19:10:47,239 
+2023-03-28 19:10:47,239 Debug logging test ...
+2023-03-28 19:10:47,239 Program sync as expected
+2023-03-28 19:10:47,240 This event was logged

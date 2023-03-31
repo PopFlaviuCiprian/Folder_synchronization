@@ -13,7 +13,7 @@ def synchronize():
     logging.warning("This event was logged")
 
 
-schedule.every(20).seconds.do(synchronize)
+schedule.every(10).seconds.do(synchronize)
 
 while True:
     schedule.run_pending()
