@@ -819,3 +819,20 @@ INFO:root:Program sync as expected
 2023-03-28 19:10:47,239 Debug logging test ...
 2023-03-28 19:10:47,239 Program sync as expected
 2023-03-28 19:10:47,240 This event was logged
+2023-03-31 22:23:10,923 Debug logging test ...
+2023-03-31 22:23:10,923 Program sync as expected
+2023-03-31 22:23:10,924 This event was logged
+2023-03-31 22:23:20,927 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-31 22:23:20,937 dirsync finished in 0.00 seconds.
+2023-03-31 22:23:20,937 1 directories parsed, 0 files copied
+2023-03-31 22:23:20,937 
+2023-03-31 22:23:20,937 Debug logging test ...
+2023-03-31 22:23:20,938 Program sync as expected
+2023-03-31 22:23:20,938 This event was logged
+2023-03-31 22:23:30,940 Running job Job(interval=10, unit=seconds, do=synchronize, args=(), kwargs={})
+2023-03-31 22:23:30,949 dirsync finished in 0.00 seconds.
+2023-03-31 22:23:30,949 1 directories parsed, 0 files copied
+2023-03-31 22:23:30,949 
+2023-03-31 22:23:30,950 Debug logging test ...
+2023-03-31 22:23:30,950 Program sync as expected
+2023-03-31 22:23:30,950 This event was logged
